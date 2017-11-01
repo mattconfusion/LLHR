@@ -29,8 +29,8 @@ Se un personaggio è legato o svenuto perde il **bonus DES** e l'eventuale **bon
 
 ## Ricerca porte segrete e trappole
 
-I lanci di **ricerca delle porte segrete** e delle **trappole**, così come quelli per **origliare** alle porte e quelli relativi alle altre **abilità del Ladro** vengono generalmente effettuati dal giocatore anziché dal Signore dei Labirinti, ad **eccezione** dei tiri per **disinnescare le trappole** o per **muoversi silenziosamente** o comunque in tutti i casi in cui il giocatore non possa essere a conoscenza dell'esito del tiro.
+Alcuni lanci di ricerca di porte segrete o di trappole, così come quelli per ascoltare o quelli relativi ad abilità del **Ladro** possono essere generalmente effettuati dal giocatore anziché dal Signore dei Labirinti, ad eccezione dei tiri per tutti i casi in cui il giocatore non possa essere a conoscenza dell'esito del tiro.
 
 ## Fallimento delle prove di abilità
 
-Il personaggio che effettuando una prova di abilità dovesse **fallire epicamente** totalizzando 20 su 1d20 può - a discrezionde del Signore dei Labirinti - subire danni o conseguenze e può provocare effetti collaterali sui altri personaggi coinvolti.
+Il personaggio che effettuando una prova di abilità dovesse **fallire epicamente** totalizzando 20 su 1d20 può - a discrezione del Signore dei Labirinti - subire danni o conseguenze e può provocare effetti collaterali sugli altri personaggi coinvolti.
