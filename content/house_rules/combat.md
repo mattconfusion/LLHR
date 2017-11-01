@@ -3,6 +3,7 @@ title: "Regole di Combattimento"
 date: 2017-11-01T13:56:32+01:00
 draft: true
 slug: "combat"
+menu: "main"
 ---
 # Regole di combattimento
 
