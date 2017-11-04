@@ -10,7 +10,7 @@ menu: "main"
 ## Attributi del personaggio
 
 Ogni giocatore genera 6 valori attributo tirando **4d6** e scartando il dado più basso.
-Ogni risultato al di sotto di 9 viene rilanciato. Assegna a piacimento questi valori alle caratteristiche **Forza**, **Destrezza**, **Costituzione**, **Intelligenza**, **Saggezza**, **Carisma**. I valori non possono essere alterati.
+Ogni risultato al di sotto di 9 viene rilanciato. Assegna a piacimento questi valori alle caratteristiche **FOR**, **DES**, **COS**, **INT**, **SAG**, **CAR**. I valori non possono essere alterati.
 
 ## Punti ferita e dadi vita
 
@@ -24,11 +24,11 @@ Le classi limitate all'uso del cuoio sono comunque abilitate all'uso del cuoio b
 
 ## Guarigione
 
-Per ogni **8 ore di riposo** i personaggi **riguadagnano 1d3 pf persi**. Per un numero di volte al giorno pari al loro bonus **COS** i personaggi possono bendarsi le ferite recuperando **1d4 pf persi**.
+Per ogni **8 ore di riposo** i personaggi **riguadagnano 1d3 pf persi**. Per un numero di volte al giorno pari al loro **mod. COS** i personaggi possono bendarsi le ferite recuperando **1d4 pf persi**.
 
 ## Classe armatura ridotta
 
-Se un personaggio è legato o svenuto perde il **bonus DES** e l'eventuale **bonus scudo** alla sua CA.
+Se un personaggio è legato o svenuto perde il **mod. DES** e l'eventuale **bonus scudo** alla sua CA.
 
 ## Ricerca porte segrete e trappole
 
@@ -36,4 +36,4 @@ Alcuni lanci di ricerca di porte segrete o di trappole, così come quelli per as
 
 ## Fallimento delle prove di abilità
 
-Il personaggio che effettuando una prova di abilità dovesse **fallire epicamente** totalizzando 20 su 1d20 può - a discrezione del Signore dei Labirinti - subire danni o conseguenze e può provocare effetti collaterali sugli altri personaggi coinvolti.
+Le prove di abilità si effettuano tirando 1d20 e comparando il risultato a quello della caratteristica desiderata: un valore sotto o pari il punteggio caratteristica è un successo.  Il personaggio che effettuando una prova di abilità dovesse **fallire epicamente** totalizzando 20 su 1d20 può - a discrezione del Signore dei Labirinti - subire danni o conseguenze e può provocare effetti collaterali sugli altri personaggi coinvolti.
