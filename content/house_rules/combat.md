@@ -64,3 +64,7 @@ Un personaggio che subisce un attacco ed ha in uso uno scudo può decidere di **
 Alcune armi, costruite secondo particolari criteri, hanno dei bonus da applicare al solo tiro per **colpire**: queste armi sono definite "**perfezionate**".
 
 Le armi magiche da mischia o da lancio applicano il bonus al tiro per colpire e al tiro per i danni, mentre le armi magiche a distanza applicano il bonus al solo tiro per colpire; i proiettili magici applicano invece il bonus al solo tiro per i danni.
+
+## Armi sacre
+
+Nei casi in cui l'ambientazione non preveda la presenza di oggetti religiosi come l'acqua santa è concesso ai **cheirici** e ai **paladini** di eleggere una delle proprie armi ad **arma sacra**. Nel caso questa venga persa o distrutta saranno necessarie fino a **1d8 ore** di rituale per rendere sacra una nuova arma.
