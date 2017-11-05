@@ -59,6 +59,12 @@ Chi si distingue per una azione particolarmente spettacolare o efficace conquist
 
 Un personaggio che subisce un attacco ed ha in uso uno scudo può decidere di **sacrificarlo** per evitare completamente i danni.
 
+## Scacciare i non morti
+
+Un **chierico** o un **paladino** possono tentare di scacciare i non morti durante un combattimento limitandosi ad **una sola volta** per tipo di non morto per incontro. Scacciare i non morti costituisce un'**azione completa** (attacco e movimento).
+
+I non morti cercheranno di allontanarsi dal chierico/paladino facendosi strada con ogni mezzo possibile e scatenando la propria furia sul resto dei presenti.
+
 ## Armi perfezionate
 
 Alcune armi, costruite secondo particolari criteri, hanno dei bonus da applicare al solo tiro per **colpire**: queste armi sono definite "**perfezionate**".
