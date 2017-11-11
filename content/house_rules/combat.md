@@ -45,7 +45,13 @@ Come riportato a pag. 143 di LLEA un personaggio che non ha ancora effettuato il
 
 ## Colpi critici e fallimenti epici
 
-Il personaggio che in combattimento lancia un 20 al tiro per colpire effettua un colpo critico infliggendo al suo avversario il massimo dei danni possibili in base all'arma usata; chi effettua 1 invece fallisce epicamente il colpo, autoinfliggendosi 1 danno o provocando altri effetti collaterali a se' stesso o ai suoi compagni.
+Il personaggio che in combattimento totalizza 20 al tiro per colpire effettua un **colpo critico** infliggendo al suo avversario il massimo dei danni possibili in base all'arma usata. 
+
+Totalizzare 1 equivale invece a un **fallimento epico**. Gli effetti collaterali sono a discrezione del Signore dei Labirinti, in base alla situazione. 
+
+Se a fallire è un'azione in **mischia** il personaggio potrebbe autoinfliggersi fino a 1d4 danni (inciampando, per esempio), oppure perdere o danneggiare la propria arma, o ancora colpire per sbaglio un compagno nello stesso raggio di azione, infliggendo danni calcolati secondo il metodo standard.
+
+Se a fallire è invece un'azione di attacco **a distanza** il personaggio potrebbe - nei casi più fortunati - non riuscire affatto nell'uso dell'arma (una balestra inceppata, per esempio) oppure - nei casi peggiori - sbagliare completamente la mira del suo attacco. In questo caso la traiettoria dell'attacco verrà decisa tirando 1d8 e vedendo la direzione indicata (o assegnando a ciascun valore un punto cardinale); nel caso il proiettile colpisca effettivamente qualcosa o qualcuno si effettuerà un lancio per i danni come per un normale attacco.
 
 ## Esperienza in combattimento
 
