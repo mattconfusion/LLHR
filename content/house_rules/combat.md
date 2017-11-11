@@ -39,9 +39,16 @@ Nel caso l'azione di movimento dovesse succedere quella di attacco il fallimento
 
 Come riportato a pag. 143 di LLEA un personaggio che non ha ancora effettuato il suo turno di combattimento può rinunciare ad attaccare per mettersi in una posizione di **difesa** e **parare** un attacco avversario. Il suo **bonus FOR** viene sottratto al tiro per colpire dell'avversario. Il personaggio in parata si muove alla metà della propria velocità di combattimento normale.
 
-## Bonus e malus
+## Penalità all'attacco
 
-*TODO: inserire regole per attacchi di opportunità, vantaggi di visibilità, ecc. Suddividere in più sezioni specifiche o fare tutto in una unica tabella?*
+Alcune situazioni impongono ai personaggi bonus o malus ai loro tiri. Generalmente si parla di penalità (o vantaggi) tra 2 e 4 rispetto al tiro effettuato. L'applicazione e il valore di queste variazioni sono a discrezione del Signore dei Labirinti; nella tabella seguente alcuni esempi.
+
+*TODO: formattare queste voci in una tabella*
+- Campo di tiro ostacolato da 1 personaggio: -2
+- Campo di tiro ostacolato da 2 o + personaggi: -4
+- Raggio d'azione ristretto da ostacoli: -2
+- Visione parzialmente offuscata: -2
+- Colpo alla cieca: -4 
 
 ## Colpi critici e fallimenti epici
 
