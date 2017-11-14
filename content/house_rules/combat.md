@@ -43,12 +43,13 @@ Come riportato a pag. 143 di LLEA un personaggio che non ha ancora effettuato il
 
 Alcune situazioni impongono ai personaggi bonus o malus ai loro tiri. Generalmente si parla di penalità (o vantaggi) tra 2 e 4 rispetto al tiro effettuato. L'applicazione e il valore di queste variazioni sono a discrezione del Signore dei Labirinti; nella tabella seguente alcuni esempi.
 
-*TODO: formattare queste voci in una tabella*
-- Campo di tiro ostacolato da 1 personaggio: -2
-- Campo di tiro ostacolato da 2 o + personaggi: -4
-- Raggio d'azione ristretto da ostacoli: -2
-- Visione parzialmente offuscata: -2
-- Colpo alla cieca: -4 
+| Situazione                                   | Penalità |
+|----------------------------------------------|----------|
+| Campo di tiro ostacolato da 1 personaggio    | -2       |
+| Campo di tiro ostacolato da 2 o + personaggi | -4       |
+| Raggio d'azione ristretto da ostacoli        | -2       |
+| Visione parzialmente offuscata               | -2       |
+| Colpo alla cieca                             | -4       |
 
 ## Colpi critici e fallimenti epici
 

@@ -36,13 +36,13 @@ I personaggi che arrivano a 0 pf svengono sul campo del torneo e sono automatica
 
 E' possibile limitare lo svolgimento della giostra a sole tre manche e, nel caso in cui nessuno dei due partecipanti se ne sia aggiudicate almeno due, usare questo sistema a punti per decretare il vincitore.
 
-| Azione | Punti
+| Azione                                              | Punti
 |-----------------------------------------------------|----|
 | Elmo avversario colpito, avversario ancora in sella | +1 |
-| Elmo avversario colpito e avversario disarcionato | +4 |
-| Scudo avversario rotto | +1 |
-| Avversario disarcionato | +3 |
-| Avversario ferito | +1 |
-| Propria lancia spezzata | +1 |
-| Proprio scudo rotto | -1 |
-| Colpo subito con ferite | -1 |
+| Elmo avversario colpito e avversario disarcionato   | +4 |
+| Scudo avversario rotto                              | +1 |
+| Avversario disarcionato                             | +3 |
+| Avversario ferito                                   | +1 |
+| Propria lancia spezzata                             | +1 |
+| Proprio scudo rotto                                 | -1 |
+| Colpo subito con ferite                             | -1 |

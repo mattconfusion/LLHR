@@ -16,7 +16,11 @@ Ogni risultato al di sotto di 9 viene rilanciato. Assegna a piacimento questi va
 
 I dadi vita vengono cambiati in base alla tabella su **LLEA** a pag. 20. Tutti i DV sono **massimizzati** per **i primi 2 livelli**. Dal 3 livello in poi il dado aggiuntivo viene tirato dal giocatore per determinare i pf aggiuntivi. I risultati di 1 vengono rilanciati.
 
-*TODO: copiare qui i parametri di pag.20 di LLEA*
+| Classe                                    | DV   |
+|-------------------------------------------|------|
+| Chierico, Druido, Elfo, Halfling, Ramingo | 1d8  |
+| Guerriero, Nano, Paladino                 | 1d10 |
+| Assassino, Ladro                          | 1d6  |
 
 ## Armature in cuoio
 
