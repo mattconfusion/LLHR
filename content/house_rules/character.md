@@ -1,7 +1,7 @@
 ---
 title: "Regole dei Personaggi"
 date: 2017-11-01T12:44:11+01:00
-draft: true
+draft: false
 slug: "chars"
 menu: "main"
 ---

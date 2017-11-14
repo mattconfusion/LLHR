@@ -1,7 +1,7 @@
 ---
 title: "Regole di Combattimento"
 date: 2017-11-01T13:56:32+01:00
-draft: true
+draft: false
 slug: "combat"
 menu: "main"
 ---
@@ -33,7 +33,16 @@ Nel caso l'azione di movimento dovesse succedere quella di attacco il fallimento
 
 ## Combattimento a fazioni
 
-*TODO: inserire le fasi del combattimento a fazioni*
+In determinate situazioni su richiesta dei giocatori e a discrezione del Signore dei Labirinti è possibile che un combattimento venga svolto secondo il metodo a fazioni (pag. 52 di LL), con le seguenti fasi:
+
+1. Dichiarazione delle azioni di ambo le parti
+1. Determinazione dell'**iniziativa**, tirando 1d6 per fazione (senza modificatori)
+1. La fazione che ha vinto l'iniziativa effettua i suoi **movimenti**.
+1. Combattimento a **distanza**
+1. Lancio di **incantesimi** (compreso scacciare non-morti)
+1. Combattimento in **mischia**
+1. La fazione che ha perso l'iniziativa ricomincia dal punto 4
+1. Terminate le azioni, l'iniziativa viene rilanciata per un nuovo round.
 
 ## Posizione di difesa
 
@@ -41,7 +50,7 @@ Come riportato a pag. 143 di LLEA un personaggio che non ha ancora effettuato il
 
 ## Penalità all'attacco
 
-Alcune situazioni impongono ai personaggi bonus o malus ai loro tiri. Generalmente si parla di penalità (o vantaggi) tra 2 e 4 rispetto al tiro effettuato. L'applicazione e il valore di queste variazioni sono a discrezione del Signore dei Labirinti; nella tabella seguente alcuni esempi.
+Alcune situazioni impongono ai personaggi bonus o **malus** ai loro tiri. Generalmente si parla di penalità (o vantaggi) **tra 2 e 4** rispetto al tiro effettuato. L'applicazione e il valore di queste variazioni sono a discrezione del Signore dei Labirinti; nella tabella seguente alcuni esempi.
 
 | Situazione                                   | Penalità |
 |----------------------------------------------|----------|
