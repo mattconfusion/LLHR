@@ -42,3 +42,23 @@ Alcuni lanci di ricerca di porte segrete o di trappole, così come quelli per as
 ## Fallimento delle prove di abilità
 
 Le prove di abilità si effettuano tirando 1d20 e comparando il risultato a quello della caratteristica desiderata: un valore sotto o pari il punteggio caratteristica è un successo.  Il personaggio che effettuando una prova di abilità dovesse **fallire epicamente** totalizzando 20 su 1d20 può - a discrezione del Signore dei Labirinti - subire danni o conseguenze e può provocare effetti collaterali sugli altri personaggi coinvolti.
+
+## Tiro salvezza contro morte
+
+Se un personaggio subisce danni che portano i suoi pf a 0 e non oltre -10 può scegliere se rimanere incosciente e quindi esporsi a colpi fatali oppure rinvenire, facendo un tiro salvezza contro Morte e
+successivamente tirando 2d6 sulla tabella "Morte e Smembramento".
+
+| 2d6 | Ferita | Effetto |
+|-------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | Morte Istantanea (decapitato o altre evidenti ferite gravi) | 75% di possibilità che l'armatura e l'elmo siano distrutti |
+| 3 | Ferita fatale (sgozzato, squartato, schiena spezzata) | morte in 1d6+1 turni se non curato. Qualsiasi armatura è distrutta. -2 a COS permanente. |
+| 4 | Arti amputati o spappolati | morte in 3d6 round a meno che la ferita non venga cauterizzata a fuoco, bloccata o curata con Cura Ferite Gravi. Armatura danneggiata (-2 alla CA), scudo distrutto. -1 a FOR e -1 DES permanenti. |
+| 5 | Ferite alla testa (testa rotta, faccia spaccata, orecchio perso) | se dotato di elmo, TS contro Morte (penalità -4) per rimanere cosciente, elmo distrutto.Senza elmo, incosciente per 1d4 settimane, -2 INT e -2 CAR permanenti. |
+| 6-7 | Ossa rotte | l'arto è inutilizzabile finchè non viene curato con Cura Ferite Gravi o immobilizzato e lasciato guarire 1d4 settimane. Può essere ancora usato per 1 round se passa un TS contro Morte (penalità -4). Armaturadanneggiata (-1 alla CA) e scudo distrutto. Se non viene curato magicamente entro 1 giorno, TS contro Morte o -1 FOR o DES permanenti. |
+| 8 | Sfigurato o parzialmente menomato (perdita di un occhio, dito, orribile cicatrice) | come Emorragia, con -1 alla DES (nel caso di ferite agli arti) o -1 SAG (per un occhio) or -1 CAR (una cicatrice), a scelta del PG. |
+| 9-10 | Emorragia (ferita esposta, ferita interna) | il PG perde 1 pf per round ameno che l'emorragia non venga fermata o curata. Armatura danneggiata (-1alla CA) |
+| 11-12 | Concussione | incosciente per 1d4 round dalla guarigione. Elmo distrutto;se non indossato, -1 a INT permanente. |
+
+## Morte di un personaggio
+
+Nel caso il suo personaggio muoia il giocatore ne può creare uno nuovo cambiando razza e classe, partendo da un totale di punti esperienza pari a quello totalizzato fino al momento della sua morte -25%.
