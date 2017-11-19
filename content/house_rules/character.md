@@ -4,8 +4,8 @@ date: 2017-11-01T12:44:11+01:00
 draft: false
 slug: "chars"
 menu: "main"
+weight: 1
 ---
-# Regole dei Personaggi
 
 ## Attributi del personaggio
 
@@ -15,6 +15,7 @@ Ogni risultato al di sotto di 9 viene rilanciato. Assegna a piacimento questi va
 ## Punti ferita e dadi vita
 
 I dadi vita vengono cambiati in base alla tabella su **LLEA** a pag. 20. Tutti i DV sono **massimizzati** per **i primi 2 livelli**. Dal 3 livello in poi il dado aggiuntivo viene tirato dal giocatore per determinare i pf aggiuntivi. I risultati di 1 vengono rilanciati.
+<!--more-->
 
 | Classe                                    | DV   |
 |-------------------------------------------|------|

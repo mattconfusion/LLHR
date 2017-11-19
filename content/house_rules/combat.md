@@ -4,8 +4,8 @@ date: 2017-11-01T13:56:32+01:00
 draft: false
 slug: "combat"
 menu: "main"
+weight: 2
 ---
-# Regole di combattimento
 
 ## Ordine di iniziativa
 
@@ -16,6 +16,8 @@ Ciascun personaggio tira **1d6** per l'iniziativa e applica il suo **mod. DES**.
 In ordine di iniziativa, ciascun partecipante effettua una azione di **movimento** e una azione di **attacco**. L'ordine è invertibile.
 
 E' possibile sostituire l'azione di attacco con una seconda azione di movimento. Il cambio di un'arma è considerato azione di movimento. Altre azioni, come bere una pozione, sono considerate azioni di movimento doppie, quindi occupano l'intero round del personaggio.
+
+<!--more-->
 
 ## Narrazione
 
@@ -48,9 +50,26 @@ In determinate situazioni su richiesta dei giocatori e a discrezione del Signore
 
 Come riportato a pag. 143 di LLEA un personaggio che non ha ancora effettuato il suo turno di combattimento può rinunciare ad attaccare per mettersi in una posizione di **difesa** e **parare** un attacco avversario. Il suo **bonus FOR** viene sottratto al tiro per colpire dell'avversario. Il personaggio in parata si muove alla metà della propria velocità di combattimento normale.
 
+## Fiancheggiamento e attacchi alle spalle
+
+Gli attacchi effettuati su personaggi fiancheggiati da avversari su 2 o più lati ottengono un bonus al tiro per colpire. Sfuggire a una situazione di accerchiamento è possibile ma equivale a un tentativo di ritirata in fuga (LL pag. 52), esponendosi di fatto a **un solo** attacco di "opportunità":
+> Il personaggio che fugge non più attaccare, e l'avversario lo può attaccare subito con un +2 per colpire (anche se ha perso l'iniziativa).
+
+| Fiancheggiamento          | Bonus all'attacco |
+|---------------------------|-------------------|
+| 2 lati opposti            |        +1         |
+| 2 lati opposti + 1 fianco |        +2         |
+| 4 lati opposti            |        +3         |
+
+Per semplicità non viene considerata nella maggior parte dei casi la direzione in cui un personaggio è voltato: colpire alle spalle è comunque possibile nei casi della già citata **ritirata in fuga**, o in quello di abilità particolari come **attacco furtivo** (ladri, assassini). Ogni attacco effettuato alle spalle di un personaggio ignora il suo scudo nel calcolo della sua CA.
+
+## Movimento diagonale
+
+E' possibile effettuare un movimento diagonale passando fra due quadretti occupati da personaggi amici; nel caso invece uno dei due quadretti sia occupato da un avversario il movimento può costituire un pericolo comparabile a quello di una situazione di fiancheggiamento di ritirata in fuga.
+
 ## Penalità all'attacco
 
-Alcune situazioni impongono ai personaggi bonus o **malus** ai loro tiri. Generalmente si parla di penalità (o vantaggi) **tra 2 e 4** rispetto al tiro effettuato. L'applicazione e il valore di queste variazioni sono a discrezione del Signore dei Labirinti; nella tabella seguente alcuni esempi.
+Alcune situazioni impongono ai personaggi **malus** ai loro tiri. Generalmente si parla di penalità (o vantaggi) **tra 2 e 4** rispetto al tiro effettuato. L'applicazione e il valore di queste variazioni sono a discrezione del Signore dei Labirinti; nella tabella seguente alcuni esempi.
 
 | Situazione                                   | Penalità |
 |----------------------------------------------|----------|
