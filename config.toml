@@ -1,11 +1,11 @@
 baseURL = "https://github.com/mattconfusion"
 languageCode = "it"
-title = "LLHR"
+title = "llhr"
 theme = "hyde"
 enableGitInfo = true
 
 [params]
     description = "Labyrinth Lord House Rules"
     copyright = "Matt Confusion"
-    custom_css = ["fonts/firacode/fira_code.css"]
+    custom_css = ["css/style.css"]
 
