@@ -52,8 +52,10 @@ Come riportato a pag. 143 di LLEA un personaggio che non ha ancora effettuato il
 
 ## Fiancheggiamento e attacchi alle spalle
 
+Si definisce fiancheggiato un personaggio che è a diretto contatto con un avversario su almeno 2 lati dei 4 punti cardinali (non nelle diagonali).
 Gli attacchi effettuati su personaggi fiancheggiati da avversari su 2 o più lati ottengono un bonus al tiro per colpire. Sfuggire a una situazione di accerchiamento è possibile ma equivale a un tentativo di ritirata in fuga (LL pag. 52), esponendosi di fatto a **un solo** attacco di "opportunità":
-> Il personaggio che fugge non più attaccare, e l'avversario lo può attaccare subito con un +2 per colpire (anche se ha perso l'iniziativa).
+
+> Il personaggio che fugge non può attaccare, e l'avversario lo può attaccare subito con un +2 per colpire (anche se ha perso l'iniziativa).
 
 | Fiancheggiamento          | Bonus all'attacco |
 |---------------------------|-------------------|
@@ -65,7 +67,7 @@ Per semplicità non viene considerata nella maggior parte dei casi la direzione 
 
 ## Movimento diagonale
 
-E' possibile effettuare un movimento diagonale passando fra due quadretti occupati da personaggi amici; nel caso invece uno dei due quadretti sia occupato da un avversario il movimento può costituire un pericolo comparabile a quello di una situazione di fiancheggiamento di ritirata in fuga.
+E' possibile effettuare un movimento diagonale passando fra due quadretti occupati da personaggi amici; nel caso invece uno dei due quadretti sia occupato da un avversario il movimento può costituire un pericolo comparabile a quello di una situazione di fiancheggiamento o di una ritirata in fuga.
 
 ## Penalità all'attacco
 
