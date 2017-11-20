@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/mattconfusion/house_rules/chars/</loc>
+    <loc>https://mattconfusion.github.io/LLHR/house_rules/chars/</loc>
     <lastmod>2017-11-01T12:44:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mattconfusion/house_rules/combat/</loc>
+    <loc>https://mattconfusion.github.io/LLHR/house_rules/combat/</loc>
     <lastmod>2017-11-01T13:56:32+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mattconfusion/categories/</loc>
+    <loc>https://mattconfusion.github.io/LLHR/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mattconfusion/house_rules/</loc>
+    <loc>https://mattconfusion.github.io/LLHR/house_rules/</loc>
     <lastmod>2017-11-01T12:44:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mattconfusion/tags/</loc>
+    <loc>https://mattconfusion.github.io/LLHR/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mattconfusion/</loc>
+    <loc>https://mattconfusion.github.io/LLHR/</loc>
     <lastmod>2017-11-01T12:44:11+01:00</lastmod>
     <priority>0</priority>
   </url>

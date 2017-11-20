@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>llhr</title>
-    <link>https://github.com/mattconfusion/</link>
+    <link>https://mattconfusion.github.io/LLHR/</link>
     <description>Recent content on llhr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© Matt Confusion</copyright>
     <lastBuildDate>Wed, 01 Nov 2017 12:44:11 +0100</lastBuildDate>
     
-	<atom:link href="https://github.com/mattconfusion/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mattconfusion.github.io/LLHR/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Regole dei Personaggi</title>
-      <link>https://github.com/mattconfusion/house_rules/chars/</link>
+      <link>https://mattconfusion.github.io/LLHR/house_rules/chars/</link>
       <pubDate>Wed, 01 Nov 2017 12:44:11 +0100</pubDate>
       
-      <guid>https://github.com/mattconfusion/house_rules/chars/</guid>
+      <guid>https://mattconfusion.github.io/LLHR/house_rules/chars/</guid>
       <description>&lt;h2 id=&#34;attributi-del-personaggio&#34;&gt;Attributi del personaggio&lt;/h2&gt;
 
 &lt;p&gt;Ogni giocatore genera 6 valori attributo tirando &lt;strong&gt;4d6&lt;/strong&gt; e scartando il dado più basso.
@@ -31,10 +31,10 @@ Ogni risultato al di sotto di 9 viene rilanciato. Assegna a piacimento questi va
     
     <item>
       <title>Regole di Combattimento</title>
-      <link>https://github.com/mattconfusion/house_rules/combat/</link>
+      <link>https://mattconfusion.github.io/LLHR/house_rules/combat/</link>
       <pubDate>Wed, 01 Nov 2017 13:56:32 +0100</pubDate>
       
-      <guid>https://github.com/mattconfusion/house_rules/combat/</guid>
+      <guid>https://mattconfusion.github.io/LLHR/house_rules/combat/</guid>
       <description>&lt;h2 id=&#34;ordine-di-iniziativa&#34;&gt;Ordine di iniziativa&lt;/h2&gt;
 
 &lt;p&gt;Ciascun personaggio tira &lt;strong&gt;1d6&lt;/strong&gt; per l&amp;rsquo;iniziativa e applica il suo &lt;strong&gt;mod. DES&lt;/strong&gt;. In caso di parità, vince il personaggio con bonus più alto; in caso di parità con un mostro o un PNG è generalmente quest&amp;rsquo;ultimo ad avere la meglio. L&amp;rsquo;iniziativa viene lanciata solo all&amp;rsquo;inizio ed è valida per tutto il combattimento.&lt;/p&gt;
