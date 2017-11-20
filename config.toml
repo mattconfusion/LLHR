@@ -1,4 +1,4 @@
-baseURL = "https://github.com/mattconfusion"
+baseURL = "https://mattconfusion.github.io/LLHR"
 languageCode = "it"
 theme = "hyde"
 enableGitInfo = true
