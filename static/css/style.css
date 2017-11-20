@@ -47,3 +47,12 @@ a:hover, a:visited{
 a:hover {
     color: #997700; 
 }
+
+.toc a {
+    color: #444;
+    /* font-weight: bold; */
+}
+
+.toc a:hover {
+    color: #990000;
+}
