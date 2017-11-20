@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Berry Rotunda';
+    src: url(fonts/BerryRotunda.ttf)
+}
+
+@font-face {
+    font-family: 'Old Style';
+    src: url(fonts/oldstyle/OLDSH___.TTF);
+}
+
+@font-face {
+    font-family: 'Old Style Italic';
+    src: url(fonts/oldstyle/OLDSIH__.TTF);
+}
+
+@font-face {
+    font-family: 'Old Style Caps';
+    src: url(fonts/oldstyle/OLDSSCH_.TTF);
+}
+
+@font-face {
+    font-family: 'Averia Serif Light';
+    src: url(fonts/averia-serif/AveriaSerif-Light.ttf);
+}
+
+h1 {
+    font-family: 'Old Style caps';
+}
+
+h2 {
+    font-family: 'Old Style Italic';
+    color: #222
+}
+
+.sidebar-about h1 {
+    font-family: 'Berry Rotunda'
+}
+
+body {
+    font-family: 'Averia Serif Light'
+}
+
+a:hover, a:visited {
+    text-decoration: none
+}
+
+a:hover {
+    color: #997700;    
+}
