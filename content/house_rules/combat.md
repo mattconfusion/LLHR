@@ -118,4 +118,4 @@ Le armi magiche da mischia o da lancio applicano il bonus al tiro per colpire e 
 
 ## Armi sacre
 
-Nei casi in cui l'ambientazione non preveda la presenza di oggetti religiosi come l'acqua santa è concesso ai **cheirici** e ai **paladini** di eleggere una delle proprie armi ad **arma sacra**. Nel caso questa venga persa o distrutta saranno necessarie fino a **1d8 ore** di rituale per rendere sacra una nuova arma.
+Nei casi in cui l'ambientazione non preveda la presenza di oggetti religiosi come l'acqua santa è concesso ai **chierici** e ai **paladini** di eleggere una delle proprie armi ad **arma sacra**. Nel caso questa venga persa o distrutta saranno necessarie fino a **1d8 ore** di rituale per rendere sacra una nuova arma.
