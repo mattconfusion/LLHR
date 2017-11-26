@@ -39,6 +39,10 @@ Se un personaggio è legato o svenuto perde il **mod. DES** e l'eventuale **bonu
 
 Alcuni lanci di ricerca di porte segrete o di trappole, così come quelli per ascoltare o quelli relativi ad abilità del **Ladro** possono essere generalmente effettuati dal giocatore anziché dal Signore dei Labirinti, ad eccezione dei tiri per tutti i casi in cui il giocatore non possa essere a conoscenza dell'esito del tiro.
 
+## Uso delle abilità del Ladro
+
+Ogni personaggio che volesse cimentarsi in una delle prove di abilità riservate ai ladri vedrà le sue percentuali di successo pari a quelle del **livello 1** del Ladro con un **malus** del **5%**.
+
 ## Fallimento delle prove di abilità
 
 Le prove di abilità si effettuano tirando 1d20 e comparando il risultato a quello della caratteristica desiderata: un valore sotto o pari il punteggio caratteristica è un successo.  Il personaggio che effettuando una prova di abilità dovesse **fallire epicamente** totalizzando 20 su 1d20 può - a discrezione del Signore dei Labirinti - subire danni o conseguenze e può provocare effetti collaterali sugli altri personaggi coinvolti.
