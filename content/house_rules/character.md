@@ -38,7 +38,7 @@ L'armatura indossata determina grosso modo il peso addosso al personaggio e di c
 | Armatura a piastre      | 18 metri           | 6 metri            |
 
 
-In questo calcolo includiamo un possibile carico verosimile per ogni personaggio, includendo le armi e il resto degli oggetti dellà inventario, con i seguenti limiti:
+In questo calcolo includiamo un possibile carico verosimile per ogni personaggio, includendo le armi e il resto degli oggetti dell'inventario, con i seguenti limiti:
 
 1. ogni personaggio può trasportare **2 armi piccole** (pugnali e simili) ed al massimo **20 frecce/quadrelli**
 2. ogni personaggio può trasportare **una delle 3 combinazioni di armi**:
