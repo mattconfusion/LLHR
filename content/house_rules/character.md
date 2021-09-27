@@ -27,6 +27,30 @@ I dadi vita vengono cambiati in base alla tabella su **LLEA** a pag. 20. Tutti i
 
 Le classi limitate all'uso del cuoio sono comunque abilitate all'uso del cuoio borchiato.
 
+## Peso e ingombro
+
+L'armatura indossata determina grosso modo il peso addosso al personaggio e di conseguenza la velocità alla quale si muove.
+
+| Armatura                | Velocità per turno | Velocità per round |
+|-------------------------|--------------------|--------------------|
+| Senza armatura          | 36 metri           | 12 metri           |
+| Cotta di maglia o cuoio | 27 metri           | 9 metri            |
+| Armatura a piastre      | 18 metri           | 6 metri            |
+
+
+In questo calcolo includiamo un possibile carico verosimile per ogni personaggio, includendo le armi e il resto degli oggetti dellà inventario, con i seguenti limiti:
+
+1. ogni personaggio può trasportare **2 armi piccole** (pugnali e simili) ed al massimo **20 frecce/quadrelli**
+2. ogni personaggio può trasportare **una delle 3 combinazioni di armi**:
+    - un'arma grande (archi lunghi, balestre pesanti, armi a due mani) e un'arma normale
+    - un'arma normale e uno scudo di qualsiasi tipo
+    - due armi normali
+3. ogni personaggio può trasportare nel suo zaino o sacca fino a **2 oggetti ingombranti** (una tenda, un'arma normale impacchettata, una pala, un piede di porco, una corda...) e **10 oggetti piccoli** (torce, razioni per qualche giorno, libri, borracce, boccette...)
+4. ogni personaggio può trasportare in tasche o altri scompartimenti **una piccola quantità di oggetti leggeri e tascabili**, il cui peso può essere trascurato (polveri magiche, qualche gemma)
+5. ogni personaggio può trasportare fino a **300 monete d'oro**
+
+Nel caso un personaggio superi i limiti qui sopra elencati sarà da considerarsi appesantito, riducendo di molto le sue capacità di movimento e di riuscita nelle prove. 
+
 ## Guarigione
 
 Per ogni **8 ore di riposo** i personaggi **riguadagnano 1d3 pf persi**. Per un numero di volte al giorno pari al loro **mod. COS** i personaggi possono bendarsi le ferite recuperando **1d4 pf persi**.
